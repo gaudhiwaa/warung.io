@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/warung.io/static/css/main.15c06834.chunk.css",
+    "main.js": "/warung.io/static/js/main.37d67b01.chunk.js",
+    "main.js.map": "/warung.io/static/js/main.37d67b01.chunk.js.map",
+    "runtime-main.js": "/warung.io/static/js/runtime-main.f60dd951.js",
+    "runtime-main.js.map": "/warung.io/static/js/runtime-main.f60dd951.js.map",
+    "static/css/2.c8d7feea.chunk.css": "/warung.io/static/css/2.c8d7feea.chunk.css",
+    "static/js/2.2fe025ff.chunk.js": "/warung.io/static/js/2.2fe025ff.chunk.js",
+    "static/js/2.2fe025ff.chunk.js.map": "/warung.io/static/js/2.2fe025ff.chunk.js.map",
+    "static/js/3.672e053f.chunk.js": "/warung.io/static/js/3.672e053f.chunk.js",
+    "static/js/3.672e053f.chunk.js.map": "/warung.io/static/js/3.672e053f.chunk.js.map",
+    "index.html": "/warung.io/index.html",
+    "static/css/2.c8d7feea.chunk.css.map": "/warung.io/static/css/2.c8d7feea.chunk.css.map",
+    "static/css/main.15c06834.chunk.css.map": "/warung.io/static/css/main.15c06834.chunk.css.map",
+    "static/js/2.2fe025ff.chunk.js.LICENSE.txt": "/warung.io/static/js/2.2fe025ff.chunk.js.LICENSE.txt",
+    "static/media/desc-2.10f67b3f.png": "/warung.io/static/media/desc-2.10f67b3f.png",
+    "static/media/freshvo.c6391a97.png": "/warung.io/static/media/freshvo.c6391a97.png",
+    "static/media/pajex.0d75152f.png": "/warung.io/static/media/pajex.0d75152f.png",
+    "static/media/sisucakeshop.93dc52db.png": "/warung.io/static/media/sisucakeshop.93dc52db.png",
+    "static/media/smartphone.19b6d187.png": "/warung.io/static/media/smartphone.19b6d187.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f60dd951.js",
+    "static/css/2.c8d7feea.chunk.css",
+    "static/js/2.2fe025ff.chunk.js",
+    "static/css/main.15c06834.chunk.css",
+    "static/js/main.37d67b01.chunk.js"
+  ]
+}
