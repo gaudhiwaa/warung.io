@@ -1,0 +1,1 @@
+export const TOSCA = '#50dcd4';
